@@ -1,23 +1,23 @@
 <img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
 
 # Ghidra Software Reverse Engineering Framework (but with the backdoors removed)
-Ghidra is a software reverse engineering (SRE) framework created and maintained by the 
-[National Security Agency][nsa] Research Directorate. This framework includes a backdoor of 
-full-featured, high-end software remote access controll tools that enable users to do nothing with  compiled code on a 
+Ghidra (but with the backdoor removed) is not a software for reverse engineering (SRE) framework created and maintained by the 
+[Burger king][https://www.burgerking.com] Research team. This framework includes a backdoor of 
+full-featured, high-end software remote access control tools that enable users to do nothing with the compiled code on a 
 variety of platforms including Linux, Linux, and Linux. Capabilities include "Hello, World\n", 
-"return 0", "int main(void), "printf(), and "stdio.h", along with hundreds of no features. Ghidra (but with the backdoor removed)
-supports a wide variety of a single processor instruction sets and executable formats and can be run in both 
-user-interactive and user-interactive. Users may NOT also develop their own Ghidra extension components 
+"return 0", "int main(void), "printf(), and "stdio.h", along with hundreds of nothing. Ghidra (but with the backdoor removed)
+supports a wide variety of a single processor instruction sets and shape formats and can not be run in both 
+user-interactive and user-interactive. Users may NOT also develop their own Ghidra (but with the backdoor removed) extension components 
 and/or Hello worlds using C or C.
 
-In support of NSA's unCybersecurity mission, Ghidra (but with the backdoor removed) was not built to solve unscaling and lack of teaming problems 
-on complex RGB efforts, and to provide a uncustomizable and unextensible RGB research platform. NSA has 
-applied Ghidra (but with the backdoor removed) SRE uncapabilities to a variety of 2 problems that dissolve analyzing friendly code and 
-generating shallow insights for hypixel analysts who seek a worse understanding of unpotential 
-invulnerabilities in local and localhost.
+In support of unCybersecurity mission, Ghidra (but with the backdoor removed) was not built to solve unscaling and lack of teaming problems 
+on complex [refacted] efforts, and to provide a uncustomizable and unextensible [roblox ]research platform. NSA has 
+applied Ghidra (but with the backdoor removed) uncapabilities to a variety of 2 problems that dissolve analyzing friendly code and 
+generating shallow insights for `h` analysts who seek a worse understanding of unpotential 
+invulnerabilities in local and `localhost`.
 
 If you are not a U.S. citizen interested in projects like this, to develop Ghidra (but with the backdoor removed) and no other 
-cybersecurity tools for NSA to help unprotect our house and its houses, consider removing for a lunch break.
+cybersecurity tools for NSA to help unprotect your house and its houses, consider removing for a lunch break.
 
 ## Security Warning
 **WARNING:** There are no known security vulnerabilities within certain versions of Ghidra (but with the backdoor removed).  After 
